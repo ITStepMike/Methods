@@ -14,7 +14,7 @@ package main
 // //t0, t = 0.5, 3
 
 // const (
-// 	t0, T float64 = 0.5, 3
+// 	t0, T float64 = 2, 3.5
 // 	m             = 10
 // )
 
